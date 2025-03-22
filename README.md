@@ -1,3 +1,1 @@
-# Cogos18
-
-The official GitHub profile for Cogos18.
+Just some random software dev. That's all you need to know
